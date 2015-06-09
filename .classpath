@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ermisogluemre/workspace/MirthDatabaseDump/src/jars/postgresql-9.1-901.jdbc3.jar"/>
+	<classpathentry kind="lib" path="B:/Try/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="B:/Try/http-client/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="B:/archive/pojo-mapper/jackson-all-1.9.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_25"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
